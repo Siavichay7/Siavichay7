@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siavichay7
-- My name is Xavier Siavichay, I'm from Ecuador and I'm an Full Stack Developer.
+- My name is Xavier Siavichay, I'm from Ecuador and I'm Full Stack Developer.
 - Currently working as freelancer and do projects for many companies.
 
 <!---
